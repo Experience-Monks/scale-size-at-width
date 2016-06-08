@@ -1,0 +1,31 @@
+{
+  "name": "scale-size-at-width",
+  "version": "0.0.1",
+  "description": "Get proportionately scaled size relative to base width.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Vadim Namniak",
+    "email": "vadim@jam3.com",
+    "url": "https://github.com/namniak"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "beefy ./test/test.js --live --open"
+  },
+  "keywords": [
+    "scale",
+    "viewport",
+    "responsive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git:github.com/Jam3/scale-size-at-width.git"
+  },
+  "homepage": "https://github.com/Jam3/scale-size-at-width",
+  "bugs": {
+    "url": "https://github.com/Jam3/scale-size-at-width/issues"
+  }
+}
