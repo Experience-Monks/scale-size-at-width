@@ -2,7 +2,7 @@
 Get proportionately scaled size relative to base width.
 
 ## Syntax
-scaleSizeAtWidth(valueAtBaseWidth, baseWidth [, limits]);
+```scaleSizeAtWidth(valueAtBaseWidth, baseWidth [, limits])```
 
 * valueAtBaseWidth: (Number) desired element's size (in pixels) relative to base width
 * baseWidth: (Number) base width
